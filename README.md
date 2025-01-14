@@ -13,6 +13,4 @@ Link redes sociais:
 <a href="https://www.linkedin.com/feed/?trk=homepage-basic_google-one-tap-submit"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkdin-logo"/></a>  <a href="https://www.instagram.com/brunomaiasl/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram-logo"/></a>
 
 
-[![Brunomaiasl stats](https://github-readme-stats.vercel.app/api?username=brunomaiasl)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunomaiasl)](https://github.com/anuraghazra/github-readme-stats)
